@@ -11,4 +11,5 @@ From the link here <a href='https://www.youtube.com/watch?v=G3e-cpL7ofc'>HTML & 
 - Elemen used in the learning : `<button>`, `<h1>`, `<p>`, `<a>`, `<img>`, `<style>`
 
 ## 2025/08/19 (Day 2)
--
+- Learn about how to inspect a page on a web to see its style and stuff
+- Learn about how to make a Text have style using font-family, size, margin    and other 

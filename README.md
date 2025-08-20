@@ -2,7 +2,7 @@
 
 Daily notes on my learning of simple Web dev,
 i'm learning from a youtube video from SuperSimpleDev
-From the link here <a href='https://www.youtube.com/watch?v=G3e-cpL7ofc'>HTML & CSS Full Course - Beginner to Pro</a>
+From the link here <a href='https://www.youtube.com/watch?v=G3e-cpL7ofc' target="_blank">HTML & CSS Full Course - Beginner to Pro</a>
 
 ## 2025/08/19 (Day 1)
 - Learning about Basic HTML and CSS
@@ -12,4 +12,5 @@ From the link here <a href='https://www.youtube.com/watch?v=G3e-cpL7ofc'>HTML & 
 
 ## 2025/08/19 (Day 2)
 - Learn about how to inspect a page on a web to see its style and stuff
-- Learn about how to make a Text have style using font-family, size, margin    and other 
+- Learn about how to make a Text have style using font-family, size, margin and other element in text
+- Learn about HTML Structure and file pathing for HMTL and CSS different file
